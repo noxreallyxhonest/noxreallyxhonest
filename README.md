@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noxreallyxhonest
 - 👀 I’m interested in constantly learning new things about computer science and IT
-- 🌱 I’m currently learning LINUX based applications
+- 🌱 I’m currently obsessed with LINUX and Networking
 - 💞️ I’m looking to collaborate on anything i can
 - 📫 How to reach me DM i guess
 - 😄 Pronouns: she/her
